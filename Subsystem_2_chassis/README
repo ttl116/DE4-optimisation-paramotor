@@ -1,0 +1,3 @@
+#The file cut_191207 is the main file for subsystem 2, and runs linear regression successfully.
+#Non linear function fitting was not achieved successfully, 
+#but I have included two attempt and my attempt at optimisation function!
