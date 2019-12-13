@@ -18,7 +18,7 @@ The script requires only MATLAB_R2017A.
 
 System level optimisation
 ----------
-The link with the system level optimisation comes in with Anusha's output of an optimum value of torque. It can be inputted into the nonlcon.m script in the relevant field to get an optimum fuel consumption at the system level.
+The link with the system level optimisation comes in with Anusha's output of an optimum value of torque from subsystem3_propeller. It can be inputted into the nonlcon.m script in the relevant field to get an optimum fuel consumption at the system level.
 
 Discrepancies between the report and the code
 ----------
